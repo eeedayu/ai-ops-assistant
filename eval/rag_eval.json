@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q001",
+    "query": "CPU温度超过90℃应该怎么办？",
+    "relevant_sources": [
+      "cpu_temperature.md"
+    ]
+  },
+  {
+    "id": "q002",
+    "query": "服务器处理器温度过高应该如何排查？",
+    "relevant_sources": [
+      "cpu_temperature.md"
+    ]
+  },
+  {
+    "id": "q003",
+    "query": "Nginx请求超时应该怎么排查？",
+    "relevant_sources": [
+      "nginx_timeout.md"
+    ]
+  },
+  {
+    "id": "q004",
+    "query": "内存使用率超过90%应该如何处理？",
+    "relevant_sources": [
+      "memory_high.md"
+    ]
+  },
+  {
+    "id": "q005",
+    "query": "磁盘空间达到90%怎么办？",
+    "relevant_sources": [
+      "disk_full.md"
+    ]
+  }
+]
